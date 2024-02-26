@@ -7,6 +7,10 @@
     "start:gprotect": "./start.sh",
     "stop:gprotect": "./stop.sh"
   },
+  "bin": {
+    "start:gprotect": "./start.sh",
+    "stop:gprotect": "./stop.sh"
+  },
   "keywords": [],
   "author": "arthvadrr",
   "license": "GNU Public V3 or latest"
