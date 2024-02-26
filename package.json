@@ -8,8 +8,8 @@
     "stop:gprotect": "./stop.sh"
   },
   "bin": {
-    "start:gprotect": "./start.sh",
-    "stop:gprotect": "./stop.sh"
+    "gprotect": "./start.sh",
+    "gprotectstop": "./stop.sh"
   },
   "keywords": [],
   "author": "arthvadrr",
