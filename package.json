@@ -1,0 +1,13 @@
+{
+  "name": "load-unload-global-protect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:gprotect": "./start.sh",
+    "stop:gprotect": "./stop.sh"
+  },
+  "keywords": [],
+  "author": "arthvadrr",
+  "license": "GNU Public V3 or latest"
+  }
