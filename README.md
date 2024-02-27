@@ -6,11 +6,9 @@ An NPM module for launching / quitting GlobalProtect since they make it such a p
 Install this module from github:
 ```npm install -g git+https://github.com/arthvadrr/load-unload-global-protect.git```
 
-Be sure to give permissions to the shell scripts
+Be sure to give permissions to the shell scripts if needed
 ```chmod +x start.sh stop.sh```
 
-and then a symlink so it can be used globally
+Symlink it (if not using npm)
 
 ```npm link```
-
-
