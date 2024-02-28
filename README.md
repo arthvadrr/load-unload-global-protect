@@ -9,10 +9,6 @@ Install this module from github:
 Be sure to give permissions to the shell scripts (only if needed, try running the script first)
 ```chmod +x start.sh stop.sh```
 
-Symlink it (if not using npm)
-
-```npm link```
-
 To start:
 ```gprotect```
 
