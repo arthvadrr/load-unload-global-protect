@@ -18,3 +18,9 @@ To start:
 
 To stop:
 ```gprotectstop```
+
+Note that you do not need to prefix with npm. In the terminal you should see something similar:
+```
+[~]$ gprotect
+[~]$ gprotectstop
+```
