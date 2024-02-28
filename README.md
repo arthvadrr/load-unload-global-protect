@@ -14,7 +14,7 @@ Symlink it (if not using npm)
 ```npm link```
 
 To start:
-```[~] gprotect```
+```gprotect```
 
 To stop:
-```[~] gprotectstop```
+```gprotectstop```
