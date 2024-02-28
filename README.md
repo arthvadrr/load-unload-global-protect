@@ -1,6 +1,6 @@
 # load-unload-global-protect
 
-An NPM module for launching/quitting GlobalProtect since they make it such a pain to do so. (uses shell)
+An NPM module for launching/quitting GlobalProtect since they make it such a pain to do so. (uses shell) (macos only)
 
 ## Usage
 Install this module from github:
