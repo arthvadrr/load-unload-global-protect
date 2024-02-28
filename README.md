@@ -12,3 +12,9 @@ Be sure to give permissions to the shell scripts if needed
 Symlink it (if not using npm)
 
 ```npm link```
+
+To start:
+```[~] gprotect```
+
+To stop:
+```[~] gprotectstop```
